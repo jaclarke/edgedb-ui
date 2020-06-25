@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2018",
+    "lib": ["ES2019.Array", "DOM"],
+    "jsx": "react",
+    "baseUrl": ".",
+    "importHelpers": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "paths": {
+      "edgedb/*": ["edgedb/dist/src/*"],
+      "@shared/*": ["shared/*"],
+      "@store/*": ["renderer/store/*"],
+      "@components/*": ["renderer/components/*"],
+      "@utils/*": ["renderer/utils/*"],
+    },
+  }
+}

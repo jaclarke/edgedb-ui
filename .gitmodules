@@ -1,0 +1,4 @@
+[submodule "src/edgedb"]
+	path = src/edgedb
+	url = https://github.com/jaclarke/edgedb-js.git
+	branch = electron-client
