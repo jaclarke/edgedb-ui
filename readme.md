@@ -20,3 +20,10 @@ cd ../../
 # Run app
 npm start
 ```
+
+## Screenshots
+
+![Query](screenshots/query.png)
+![Schema ER Diagram](screenshots/schema.png)
+![Datatable](screenshots/datatable.png)
+![Settings](screenshots/settings.png)
