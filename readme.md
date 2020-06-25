@@ -7,6 +7,8 @@ This project initally started as an experimental webapp for generating ER diagra
 ## Installation / Usage
 
 ``` sh
+git submodule update --init
+
 npm install
 
 # Build edgedb-js submodule
