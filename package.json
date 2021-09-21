@@ -28,7 +28,7 @@
     "postcss-selector-parser": "^6.0.2",
     "promise-stream-reader": "^1.0.1",
     "requirejs": "^2.3.6",
-    "ssh2": "^0.8.9",
+    "ssh2": "^1.4.0",
     "stylus": "^0.54.7",
     "typescript": "^3.7.4",
     "vue": "^2.6.11",
