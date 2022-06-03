@@ -1,3 +1,5 @@
+ ⚠ This project is now obsolete, and doesn't work with any post-beta version of EdgeDB. It's recommended to instead use the official EdgeDB UI.
+
 # Untitled EdgeDB GUI Client
 
 A basic EdgeDB GUI Client for Windows (It should work on any platform supported by Electron, but currently it's only designed for Windows, so the UI will look a bit out of place on other OS's).
